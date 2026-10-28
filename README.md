@@ -1,7 +1,7 @@
 # README
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:001f24&height=220&section=header&text=Muneer Raja&fontSize=60&fontColor=00F5FF&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=20&descColor=FF00E5&descAlignY=62&animation=twinkling" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a0a0a,100:001f24&height=220&section=header&text=YOUR%20NAME&fontSize=60&fontColor=00F5FF&fontAlignY=42&desc=Full%20Stack%20Developer&descSize=20&descColor=FF00E5&descAlignY=62&animation=twinkling" alt="header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00F5FF&background=00000000&center=true&vCenter=true&width=650&height=50&lines=%3E+Building+premium+web+experiences;%3E+Frontend+%7C+Backend+%7C+Cloud;%3E+Clean+code.+Bold+design.+Fast+delivery.;%3E+Let's+build+something+great+together" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 
 ```js
 const developer = {
-  name: "Muneer Raja",
+  name: "YOUR NAME",
   role: "Full Stack Developer",
   location: "Pakistan 🇵🇰",
   focus: ["Web Apps", "APIs", "Performance", "UI/UX"],
